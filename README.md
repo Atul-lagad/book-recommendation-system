@@ -1,3 +1,3 @@
 Book Recommendation System 
 
-https://book-recommendation-systemm.streamlit.app/
+https://book-rec-sy.streamlit.app/
